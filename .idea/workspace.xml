@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af1e1b9-de66-402c-92e0-2ed0107409c2" name="Changes" comment="13.12.2024_11.57" />
+    <list default="true" id="0af1e1b9-de66-402c-92e0-2ed0107409c2" name="Changes" comment="13.12.2024_12.06">
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734080249012</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="13.12.2024_12.06">
+      <option name="closed" value="true" />
+      <created>1734080798858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734080798858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +235,7 @@
     <MESSAGE value="13.12.2024_11.49" />
     <MESSAGE value="13.12.2024_11.52" />
     <MESSAGE value="13.12.2024_11.57" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.12.2024_11.57" />
+    <MESSAGE value="13.12.2024_12.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.12.2024_12.06" />
   </component>
 </project>
