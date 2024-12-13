@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0af1e1b9-de66-402c-92e0-2ed0107409c2" name="Changes" comment="13.12.2024_12.36" />
+    <list default="true" id="0af1e1b9-de66-402c-92e0-2ed0107409c2" name="Changes" comment="13.12.2024_14.19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734082607486</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="13.12.2024_14.19">
+      <option name="closed" value="true" />
+      <created>1734088769680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734088769680</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +269,7 @@
     <MESSAGE value="13.12.2024_12.08" />
     <MESSAGE value="13.12.2024_12.19" />
     <MESSAGE value="13.12.2024_12.36" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.12.2024_12.36" />
+    <MESSAGE value="13.12.2024_14.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.12.2024_14.19" />
   </component>
 </project>
