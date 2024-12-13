@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: ci 
 on:
   push:
@@ -24,3 +22,8 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
+      - run: git config --global user.name = "mihich_designed"
+      - run: git config --global user.email = "mdonzhuk@gmail.com"
+      - run: git fetch
+      - run: pip install mike
+      - run: mike deploy --push --update-aliases -b gh-pages 1.0 latest
