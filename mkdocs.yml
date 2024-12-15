@@ -24,8 +24,12 @@ theme:
 
 nav:
   - Для разработчиков:
-    - Руководство по использованию алгоритма CRouter:
-      - router_guide/index.md
+      - Техническая документация:
+        - Руководство по использованию алгоритма CRouter:
+          - router_guide/index.md
+      - Другое:
+          - С Новым Годом!:
+            - other/index.md
 
 plugins:
   - search:
