@@ -23,8 +23,9 @@ theme:
   custom_dir: overrides
 
 nav:
-  - Руководство по использованию алгоритма CRouter:
-    - router_guide/index.md
+  - Для разработчиков:
+    - Руководство по использованию алгоритма CRouter:
+      - router_guide/index.md
 
 plugins:
   - search:

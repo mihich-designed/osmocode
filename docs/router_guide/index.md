@@ -21,4 +21,3 @@
 данные.
 
 ![Изображение](https://docs.kentico.com/docsassets/k8/configuring-page-urls/URL_Processing.png)
-**Это вторая версия**
